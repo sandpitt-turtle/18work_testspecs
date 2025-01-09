@@ -50,7 +50,7 @@ A feature allowing a user to check out as either a guest (without an account) or
 
 - **Member Checkout:**
   - Customers who select that they have an account will be prompted to enter id info.
-  - Customers will be presented with multiple ID options (e.g., email, phone).
+  - Customers will be presented with multiple id options (e.g., email, phone).
   - A user interface (similar to a Target self-checkout I guess) will appear for ID input.
   - A keyboard option should be available for manual input.
   - Once entries are logged, a button (potentially animated or glowing or moving around the screen rapidly making it difficult to press in order to make the experience more like a video game)
