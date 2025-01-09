@@ -60,7 +60,7 @@ A feature allowing a user to check out as either a guest (without an account) or
 
 - **Forgotten Accounts:**
 
-  - Customers attempting to create an account despite already having one will be informed of their error and must resolve it (figure out the correct email and password).
+  - Customers attempting to create an account despite already having one will be informed of their error and must resolve it (enter password seeing as the email or number etc. that you've entered is already logged).
 
 - **Forgotten Information:**
 
